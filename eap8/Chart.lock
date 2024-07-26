@@ -1,0 +1,6 @@
+dependencies:
+- name: wildfly-common
+  repository: https://docs.wildfly.org/wildfly-charts/
+  version: 2.1.1
+digest: sha256:f8cab35a5ec8246443bd2c84c0bc0444d486811145d708d07337343bcb5393df
+generated: "2024-01-30T12:04:19.238288814Z"
