@@ -1,0 +1,18 @@
+dependencies:
+- name: keycloak
+  repository: https://charts.bitnami.com/bitnami
+  version: 19.4.1
+- name: postgresql
+  repository: https://charts.bitnami.com/bitnami
+  version: 12.12.10
+- name: web-modeler-postgresql
+  repository: file://../web-modeler-postgresql
+  version: 11.9.13
+- name: elasticsearch
+  repository: oci://registry-1.docker.io/bitnamicharts
+  version: 20.0.4
+- name: common
+  repository: https://charts.bitnami.com/bitnami
+  version: 2.20.5
+digest: sha256:326a3d36c12f6b5a19c377f44bdc89fbd9e635062d7db26df193e373eb63a57e
+generated: "2024-07-25T12:54:17.05925119Z"
